@@ -1,0 +1,33 @@
+# Google Maps
+clients4.google.com
+clients2.google.com
+
+# YouTube history
+s.youtube.com
+video-stats.l.google.com
+
+# YouTube App for iOS
+www.googleapis.com
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+
+# Google Play
+android.clients.google.com
+
+# Google Fonts
+fonts.gstatic.com
+
+# Gmail
+googleapis.l.google.com
+
+# Google Chrome (update on ubuntu)
+dl.google.com
+
+# Microsoft services
+www.msftncsi.com
+login.microsoftonline.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+officeclient.microsoft.com
