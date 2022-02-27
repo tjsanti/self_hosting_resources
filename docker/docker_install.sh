@@ -6,6 +6,4 @@ sudo apt-get update
 
 sudo apt install docker.io
 
-sudo snap install docker
-
 echo "Docker installed: $(docker --version)"
